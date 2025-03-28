@@ -26,9 +26,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Configure Roles (for grouping permissions)
+  
+  - In this tutorial, we will add a "Supreme Admin" role to provide full access. Note this is not recommended in real-world scenarios, as roles should be configured to grant specific permissions to all users.
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+![add new role](https://github.com/user-attachments/assets/05dbab60-cef5-44f4-bd8a-2c1d7f3fe631)
